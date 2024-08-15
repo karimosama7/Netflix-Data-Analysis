@@ -27,25 +27,6 @@ This project involves a comprehensive analysis of Netflix’s content dataset to
 - **Python Libraries**: Pandas, Matplotlib, Seaborn, Plotly.
 - **Techniques**: Data aggregation, trend analysis, correlation analysis.
 
-## Getting Started
-
-### Prerequisites
-- Python 3.x
-- Required Python libraries (listed in `requirements.txt`)
-
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repository.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd your-repository
-   ```
-3. Install the required libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ### Usage
 1. **Data Analysis**: Run the Jupyter notebooks or Python scripts in the `notebooks` or `scripts` directory to perform the analysis.
